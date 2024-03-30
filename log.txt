@@ -1,3 +1,0 @@
-2024年3月28日
-1. 用js生成product html
-2. 用add to cart按钮向shopping cart添加商品
